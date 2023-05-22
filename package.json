@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@types/node": "20.2.3",
+    "astro": "2.5.1",
+    "typescript": "5.0.4",
+    "unocss": "0.52.0"
+  },
+  "name": "unocss-2646",
+  "scripts": {
+    "build": "astro check && astro build",
+    "dev": "astro dev",
+    "preview": "astro preview"
+  },
+  "type": "module",
+  "version": "0.0.1"
+}
